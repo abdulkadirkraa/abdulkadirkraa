@@ -23,6 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulkadirkraa&show_icons=true&locale=en" alt="abdulkadirkraa" /></p>
 
-### Blogs posts
+# Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
